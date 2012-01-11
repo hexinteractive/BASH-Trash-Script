@@ -1,0 +1,4 @@
+
+I just wrote this BASH script for sending a file or directory to the Trash. It’s super basic and can only handle a single item at a time. I wrote it to mimic dragging and dropping a file into the Trash. I don’t like using rm because it provides to way to undo.
+
+http://hexinteractive.net/blog/bash-trash-script/
